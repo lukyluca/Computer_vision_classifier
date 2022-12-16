@@ -1,0 +1,9 @@
+{
+	"name": "test-factory-prep98",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6477a6e3-ae19-4b33-942e-aa8f410e2dfb",
+		"tenantId": "da12d1f6-aa30-448d-82a0-df1b34d79537"
+	}
+}
